@@ -1,18 +1,3 @@
-.carousel-inner{
-  max-height: 500px;
-}
-img{
-  object-fit: fill;
-}
-
-#smaller{
-  font-size: 1.3vw;
-}
-
-#smaller_c{
-  font-size: 2vw;
-}
-
-smaller{
-  font-size: 1.5vw;
+.nav-item{
+  float: right;
 }
